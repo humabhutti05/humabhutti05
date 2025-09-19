@@ -12,14 +12,14 @@
   - **Agentic AI**  
   - **Pydantic | OpenAI SDK | Prompt Engineering**  
 - 💬 Skilled in: **TypeScript | Python | ReactJS | MongoDB | Firebase | Next.js | JavaScript | CSS | HTML**  
-- 📫 Reach me at: **humabhutti@gmail.com**
+- 📫 Reach me at: **humamuhammadyousaf@gmail.com**
 
 ---
 
 ### 🌍 Connect With Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/huma-bhatti" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:humabhutti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:humamuhammadyousaf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -46,10 +46,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=humabhutti05&theme=radical" alt="GitHub Streak" height="180em"/>
 </p>
 
----
-
-### 🐍 Contribution Snake
-![snake gif](https://github.com/humabhutti05/humabhutti05/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
