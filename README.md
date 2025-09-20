@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me
-- 🎓 Currently a **BSAI Student (University)**  
+- 🎓 Currently a **BSAI Student at Sindh Madressatul Islam University (SMIU)**  
 - 🔭 Working on **Bano Qabil** projects  
 - 🌱 Learning & exploring:  
   - **Web Development (MERN + Next.js + Firebase)**  
