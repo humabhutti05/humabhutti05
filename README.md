@@ -41,11 +41,16 @@
 ---
 
 ### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=humabhutti05&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humabhutti05&theme=radical" alt="GitHub Streak" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=humabhutti05&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humabhutti05&theme=radical" height="180em"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Stats-%F0%9F%93%8A-%2300C853?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coding%20Streak-%F0%9F%94%A5-%23FF0055?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
